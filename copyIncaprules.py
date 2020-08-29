@@ -10,6 +10,7 @@ import re
 # api_key - api_key of the user.
 # from_id - external site id of the source site.
 # to_id - external site id of the destination site.
+# API details at https://docs.imperva.com/bundle/cloud-application-security/page/api/sites-api.htm
 
 def copyIncaprules(api_id, api_key, from_id, to_id):
 
